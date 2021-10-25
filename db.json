@@ -1,0 +1,14 @@
+{
+  "destinations": [
+    {
+      "name": "tokyo",
+      "id": 1
+    }
+  ],
+  "activities": [
+    {
+      "name": "I want to catch a fish and cook it",
+      "id": 1
+    }
+  ]
+}
